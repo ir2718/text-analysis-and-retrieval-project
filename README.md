@@ -64,7 +64,7 @@ Irony detection in tweets with a focus on feature engineering, feature importanc
 | Most frequent words                 | Accuracy   | Precision   | Recall      | F1 score   |
 | ----------------------------------- | ---------- | ----------  | ----------  | ---------- |
 | work, love, day                     | 0.642      | 0.629       | 0.632       | 0.630      |
-| police, black, obama                | 569        | 0.567       | 0.568       | 0.567      |
+| police, black, obama                | 0.569        | 0.567       | 0.568       | 0.567      |
 | fan, game, play                     | 0.425      | 0.380       | 0.376       | 0.378      |
 | lol, funny, know                    | 0.750      | 0.725       | 0.796       | 0.724      |
 
